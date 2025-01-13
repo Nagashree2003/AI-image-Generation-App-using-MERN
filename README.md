@@ -6,6 +6,8 @@ This cutting-edge app harnesses the power of AI and the MERN stack to deliver a 
 
 ## ✨ Features
 ✔️ AI-Powered Image Generation: Generate unique images based on your imagination.
+
+
 ✔️ Responsive Design: Optimized for all devices—desktop, tablet, and mobile.
 ✔️ Image Gallery: Store and view previously generated creations.
 ✔️ Download Images: Save your favorite images directly to your device.
