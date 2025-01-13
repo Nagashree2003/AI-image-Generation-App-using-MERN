@@ -9,26 +9,41 @@ This cutting-edge app harnesses the power of AI and the MERN stack to deliver a 
 
 
 ✔️ Responsive Design: Optimized for all devices—desktop, tablet, and mobile.
+
+
 ✔️ Image Gallery: Store and view previously generated creations.
+
+
 ✔️ Download Images: Save your favorite images directly to your device.
+
+
 ✔️ Scalable Backend: Designed for performance and scalability.
+
+
 ✔️ Modern UI: Sleek and user-friendly interface powered by Material-UI and Styled Components.
 
 ## 🛠️ Technologies Used
 Frontend
 🎨 React.js: For building interactive and dynamic UI.
+
 🎨 Styled-Components: For component-level styling with CSS.
+
 🎨 Material-UI (MUI): To create beautiful, pre-styled components effortlessly.
 
 Backend
 ⚙️ Node.js: Fast and lightweight JavaScript runtime for the server.
+
 ⚙️ Express.js: Framework for building APIs and server logic.
+
 ⚙️ MongoDB: NoSQL database for managing users and image data.
 
 ## Additional Libraries
 📡 Axios: For handling API requests.
+
 🌐 React-Router-DOM: To enable smooth navigation across pages.
+
 📂 File-Saver: To let users save their generated images.
+
 📷 Lazy-Load-Image-Component: Enhances performance by loading images lazily.
 
 
@@ -38,7 +53,9 @@ Backend
 Before you begin, ensure you have the following installed:
 
 Node.js (v14 or higher)
+
 MongoDB (local or via MongoDB Atlas)
+
 Git
 
 
