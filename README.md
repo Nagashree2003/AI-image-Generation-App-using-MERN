@@ -112,12 +112,17 @@ http://localhost:3000
 
 ## 📞 Contact
 If you have any questions or suggestions, feel free to reach out:
+
 👤 Nagashree P
+
 📧 nagunagashree61@gmail.com
+
 🔗 GitHub Profile
+
 https://github.com/Nagashree2003
 
 ⚖️ License
+
 This project is licensed under the MIT License. Feel free to use and modify as needed.
 
 Feel free to copy and edit this template to suit your specific needs! Let me know if you'd like to add more customizations.
